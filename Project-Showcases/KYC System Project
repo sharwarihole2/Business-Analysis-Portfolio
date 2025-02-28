@@ -1,0 +1,57 @@
+# KYC System Problem Statement
+
+## Business Challenge
+Financial institutions face strict regulatory requirements for customer verification while needing to maintain efficient onboarding processes. Manual verification processes were time-consuming, error-prone, and created compliance risks.
+
+## Objectives
+- Streamline customer identity verification process
+- Ensure regulatory compliance with AML/KYC regulations
+- Create secure document management capabilities
+- Implement proper audit trails for verification activities
+- Reduce onboarding time by 40%
+
+# Requirements Gathering Methodology
+
+## Stakeholder Identification
+- Identified key stakeholders: Compliance team, Customer service, IT security, Legal department
+- Created a RACI matrix for clear role definition
+
+## Elicitation Techniques Used
+- Conducted 5 stakeholder interviews with compliance and operations teams
+- Facilitated 3 requirements workshops with cross-functional teams
+- Analyzed existing documentation and compliance requirements
+- Observed current workflow processes
+- Reviewed industry best practices for KYC implementation
+
+## Requirements Documentation
+- Created user stories with acceptance criteria
+- Developed process flow diagrams for verification workflows
+- Documented functional and non-functional requirements
+- Created data requirement specifications
+
+# Technical Requirements
+
+## Database Design Requirements
+- Customer data must maintain referential integrity with related entities
+- Document storage must follow security best practices
+- System must support complex queries for compliance reporting
+- Data model must accommodate future expansion of verification types
+
+## Functional Requirements
+(Brief outline of key functional requirements that informed the ERD)
+
+## Integration Requirements
+(Description of how this system would integrate with other systems)
+
+# Project Impact Assessment
+
+## Business Value Delivered
+- Reduced customer onboarding time from 5 days to 1 day
+- Improved compliance reporting accuracy by 95%
+- Eliminated manual verification steps, reducing operation costs
+- Enhanced data security with proper access controls and audit tracking
+
+## Technical Improvements
+- Implemented optimized database design with proper indexing
+- Created scalable architecture to support growing customer base
+- Established robust audit mechanisms for compliance purposes
