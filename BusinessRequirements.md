@@ -10,7 +10,7 @@ This Know Your Customer (KYC) system was designed to help financial institutions
 4. Provide audit capabilities for regulatory reporting
 5. Enable efficient verification workflows
 
-6. ## Functional Requirements
+## Functional Requirements
 
 ### Customer Management
 - Store essential customer information including contact details
